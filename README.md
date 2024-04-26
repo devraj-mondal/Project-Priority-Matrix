@@ -26,7 +26,6 @@ A simple priority matrix maps three basic, competing priorities: time, cost, and
 MS-excel, Pivot Table, Visualization
 ## Screenshots
 
-![![Screenshot (14)](https://github.com/devraj-mondal/Project-Priority-Matrix/assets/64974135/018f21df-d69f-419e-9b1b-c5fbd6ebad5a)](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## 🔗 Links
