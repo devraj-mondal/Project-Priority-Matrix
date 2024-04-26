@@ -7,7 +7,7 @@ This matrix usually consists of a table or table that lists options on one axis 
 
 By evaluating activities according to a prioritization process, the Priority Matrix allows stakeholders to identify and focus on the activities most relevant to the organization's goals, strategic objectives, limited resources, and other important factors. This will help allocate limited resources to projects with the highest potential for profitability or return on investment, thus ensuring the efficiency and effectiveness of the project portfolio.
 
-#Features
+##Features
 A simple priority matrix maps three basic, competing priorities: time, cost, and scope. A priority matrix can be useful for narrowing down multiple project or task options , and facilitating decision making
 
 💹 Critical: Tasks or projects that are both urgent and important. These should be given the highest priority and immediate attention.
@@ -18,10 +18,10 @@ A simple priority matrix maps three basic, competing priorities: time, cost, and
 
 💹Low Priority: Tasks or projects that are neither urgent nor important. These can be deferred or eliminated if necessary.
 
-#Tech Stack
+##Tech Stack
 MS-excel, Pivot Table, Visualization
 
-#Screenshots
+##Screenshots
 ![Screenshot (14)](https://github.com/devraj-mondal/Project-Priority-Matrix/assets/64974135/018f21df-d69f-419e-9b1b-c5fbd6ebad5a)
 
 🔗 Links
