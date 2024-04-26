@@ -24,6 +24,11 @@ A simple priority matrix maps three basic, competing priorities: time, cost, and
 💹Low Priority: Tasks or projects that are neither urgent nor important. These can be deferred or eliminated if necessary
 ## Tech Stack
 MS-excel, Pivot Table, Visualization
+
+## live Report
+https://mondaldevraj-my.sharepoint.com/:x:/g/personal/devraj_mondaldevraj_onmicrosoft_com/EVC50XMQ0StPqY6k-BKC6jIBQwo9nTRzDL-Fl82aUWP4uw?e=vt5Wc9
+
+
 ## Screenshots
 
 
